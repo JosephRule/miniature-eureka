@@ -1,10 +1,12 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "id": "r5v7ebwfo36hlngpcz74",
+        "title": "Test Title",
+        "text": "Test text"
     },
     {
-        "title":"Another note",
-        "text":"Insert very insightful text here"
+        "id": "2a5os8aust5r17w3oebj",
+        "title": "Another note",
+        "text": "Insert very insightful text here"
     }
 ]

@@ -22,6 +22,7 @@
   "homepage": "https://github.com/JosephRule/miniature-eureka#readme",
   "devDependencies": {
     "fs": "^0.0.1-security",
+    "generate-unique-id": "^2.0.1",
     "path": "^0.12.7"
   }
 }
