@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "generate-unique-id": "^2.0.1"
   },
   "repository": {
     "type": "git",
@@ -22,7 +23,6 @@
   "homepage": "https://github.com/JosephRule/miniature-eureka#readme",
   "devDependencies": {
     "fs": "^0.0.1-security",
-    "generate-unique-id": "^2.0.1",
     "path": "^0.12.7"
   }
 }
